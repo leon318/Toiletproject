@@ -17,6 +17,7 @@ while counter < 300:
     weight.append(arduinoData)
     counter += 1
 
+#this is another version
 
 
 
